@@ -360,9 +360,9 @@ If you use Shield in your research or production system, please cite:
 
 ## Support
 
-- 📧 Email: your-email@example.com
-- 🐛 Issues: https://github.com/yourusername/shield-prompt-injection/issues
-- 💬 Discussions: https://github.com/yourusername/shield-prompt-injection/discussions
+- 📧 Email:
+- 🐛 Issues: 
+- 💬 Discussions: 
 
 ## Disclaimer
 
